@@ -7,6 +7,8 @@
 
 - 💬 AS linguagens que tenho mais familiaridade são **JavaScript, HTML, CSS, Node.JS**
 
+- ⚡ Atualmente meu ingles é basico mas estou estudando para melhorar.
+
 - 👨‍💻 Meu Linkdin: [linkedin/wendesongomes](https://www.linkedin.com/in/wendeson-gomes-70a9ab18b/)
 
 
