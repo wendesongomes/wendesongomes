@@ -5,7 +5,7 @@
 
 - 🔭 Procurando uma oportunidade para demostrar minhas habilidade.
 
-- 💬 AS linguagens que tenho mais familiaridade são **JavaScript, HTML, CSS, Node.JS**
+- 💬 AS linguagens que tenho mais familiaridade são **JavaScript, HTML e CSS**
 
 - ⚡ Atualmente meu ingles é basico mas estou estudando para melhorar.
 
