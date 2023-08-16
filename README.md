@@ -23,3 +23,7 @@ Lately, I've been quite immersed in the He4rt group, where I learn, collaborate,
 1. **Initial Exploration:** I embarked on my programming journey at the age of 13, and while I didn't start with Java, I dove into the coding world with JavaScript. Since then, the passion for creating with code has never waned.
 2. **Sounds and Rhythms:** Beyond code, I'm driven by music. No matter the genre, music accompanies me, inspiring my work and fueling my creativity.
 3. **Coding Community:** I'm an active member of the He4rt group, where I share knowledge, learn from peers, and collaborate on exciting projects. The community is my fertile ground for growth and inspiration in the programming world.
+
+## Contact Me
+
+ [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/WendesonJS)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendeson-gomes-70a9ab18b/)
