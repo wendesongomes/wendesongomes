@@ -9,7 +9,7 @@ Feel free to explore my projects and codes. This is where I bring my ideas to li
 ## Detailed Information
 
 - **Name**: Wendeson Gomes
-- **Age**: 22
+- **Age**: 23
 - **Living in**: Jaboatao Dos Guararapes PE, Brazil
 - **Stack**: HTML - CSS - JavaScript - React - NextJS - ViteJS
 - **University**: Estácio De Sá - Bachelor's Degree in Software Engineering
